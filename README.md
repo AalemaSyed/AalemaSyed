@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @AalemaSyed
 - 👀 I’m interested in making applications
 - 🌱 I’m currently learning js
-- 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love cats...
 
 <!---
 AalemaSyed/AalemaSyed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
